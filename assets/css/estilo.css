@@ -34,14 +34,9 @@ section img.senai {
 section.secao{
     text-align: none;
     display:flex;
-
+    background-color: red;
 }
 
-section {
-    background-color: #ff0505;
-}
-
-section.secao1 {
-    background-color:white;
-    padding: 1px;
+section img.security {
+    width: 500px;
 }
