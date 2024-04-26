@@ -34,22 +34,19 @@ section img.senai {
 section.secao{
     text-align: none;
     display:flex;
-    background-color: red;
+    background-color: #ff0505;
 }
 
-section img.security {
-    transition: 0.5 ease;
-    width: 700px;
-    margin-top: 40px;
-    margin-left: 256px;
-    margin-right: 300px;
-    margin-bottom: 60px;
-    box-shadow: 3px 2px 3px gray;
+section.secao1 {
+    background-color:white;
+    padding: 1px;
 }
 
-section img.security:hover {
-    width: 702px ;
-    cursor: pointer;
+h1.titulo1 {
+    margin-top: 65;
+    text-align: center;;
 }
 
-
+section.secao2 {
+    background-color:;
+}
