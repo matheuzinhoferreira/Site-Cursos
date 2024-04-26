@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header.cabecalho {
+    background-color: #d40505;
+    padding: 1em;
+}
+
+section nav a button.botao {
+    background-color: #ff0505; 
+    color: white; 
+    padding: 10px 20px; 
+    border-style: none; 
+    border-radius: 10px;
+    cursor: pointer; 
+    transition: 0.3s ease, 0.3s ease; 
+    margin-top: 20px;
+    margin-left: 65px;
+}
+
+section nav a button.botao:hover {
+    background-color: #d40505; 
+    transform: scale(1.05); 
+}
+    
+
+section img.senai {
+    width: 250px;
+    height: 75px;
+}
+
+section.secao{
+    text-align: none;
+    display:flex;
+
+}
+
+section {
+    background-color: #ff0505;
+}
+
+section.secao1 {
+    background-color:white;
+    padding: 1px;
+}
+img.fotolgpd {
+    width: 700px;
+    padding-top: 40px;
+    padding-left: 256px;
+    padding-right: 300px;
+    padding-bottom: 60px;
+}
+section.imagem {
+    background-color: white;
+}
+section h2 {
+    text-align: center;
+}
+section.outrasection {
+    background-color: white;
+}
