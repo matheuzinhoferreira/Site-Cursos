@@ -63,11 +63,15 @@ section.outrasection {
 }
 .imagens {
     width: 300px;
-    margin: 50px;
+    margin: 51px;
 }
 .frases {
     text-align: left;
 }
+.frase2 {
+    margin-top: -55px;
+}
 .frase3 {
+    margin-top: -50px;
     text-align: right;
 }
