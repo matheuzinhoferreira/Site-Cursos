@@ -61,3 +61,13 @@ section h2 {
 section.outrasection {
     background-color: white;
 }
+.imagens {
+    width: 300px;
+    margin: 50px;
+}
+.frases {
+    text-align: left;
+}
+.frase3 {
+    text-align: right;
+}
